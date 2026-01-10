@@ -56,6 +56,7 @@
 
 // equal and type (===)
 
- let a=6;
- let b=3;
- console.log("a===b", a===b)
+//  let a=6;
+//  let b=3;
+//  console.log("a===b", a===b);
+
