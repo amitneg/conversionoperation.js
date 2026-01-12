@@ -32,3 +32,17 @@
 //     console.log ("middle");
 // }
 
+// switch statement
+
+// let traficlight = "yellow";
+
+// switch (traficlight) {
+//   case "red":
+//     console.log("stop");
+//     break;
+//   case "yellow":
+//     console.log("start");
+//     break;
+//   case "green":
+//     console.log("go");
+// }
